@@ -1,6 +1,6 @@
 # AI-ML-Task-3
 
-##By Abhishek Mitra
+## By Abhishek Mitra
 
 # 📊 Linear Regression with Scikit-learn
 
